@@ -1,6 +1,6 @@
 {
   "name": "angular-directive",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "'Celestino <'celestinoramalho@gmail.com'>"
   ],
@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.0.6"
+    "angular": "~1.2.23"
   }
 }
